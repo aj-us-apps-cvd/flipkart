@@ -1,4 +1,3 @@
-hello stage command check
 update in master
 update in stage branch
 updtae in dev brnch
